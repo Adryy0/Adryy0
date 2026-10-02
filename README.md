@@ -1,12 +1,34 @@
-### oiie 👋
+# Olá! Eu sou a Adrielly 👋
 
-<!--
-**Adryy0/Adryy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedora em formação  
+🌐 Foco em Desenvolvimento Web  
+📚 Atualmente estudando Java, JavaScript, SQL e Inglês  
+🚀 Buscando minha primeira oportunidade em Tecnologia
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- estou fazendo curso do Alura
-- tento aprimorara a cada dia mais
-😌💙🩷🇧🇷--->
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+- Git
+- GitHub
 
-![image](https://github.com/Adryy0/Adryy0/assets/169806602/302a5a46-475c-4f2e-93c9-962c72169461)
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- Java
+- Banco de Dados
+- APIs
+- Inglês para Tecnologia
+
+## 🚀 Projetos
+
+🔨 Em construção — novos projetos serão adicionados em breve.
+
+## 📫 Contato
+
+- 💼 LinkedIn: LinkedIn]https://www.linkedin.com/in/adrielly-bezerra-616ab0354?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- 📧 E-mail:adriellybezerra0112@gmail.com
